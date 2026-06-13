@@ -11,5 +11,8 @@ A basic portfolio website created using HTML.
 ## Technologies Used
 - HTML5
 
+## Live Website
+https://karinacodes-dev.github.io/html-basics/
+
 ## Author
 Karina Singh
